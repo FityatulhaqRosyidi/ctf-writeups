@@ -13,7 +13,7 @@ Crypto
 
 ## Solusi
 Kita diberi string hex yg panjang untuk didecrypt. 
-untuk mengonversi string hex ke bytes di python, kita dapat menggunakan fungsi bytes.fromhex()
+untuk mengonversi string hex ke bytes di python, kita dapat menggunakan fungsi ```bytes.fromhex()```
 
 penjelasan hexadecimal dapat dilihat [disini](https://en.wikipedia.org/wiki/Hexadecimal)
 
