@@ -1,5 +1,5 @@
 # base64
-crypto
+cryptography
 
 ## Deskripsi
 > Another common encoding scheme is Base64, which allows us to represent binary data as an ASCII string using an alphabet of 64 characters. One character of a Base64 string encodes 6 binary digits (bits), and so 4 characters of Base64 encode three 8-bit bytes.
