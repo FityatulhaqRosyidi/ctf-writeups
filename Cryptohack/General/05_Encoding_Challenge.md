@@ -1,4 +1,4 @@
-# Encoding Challenge
+# Encoding Challenge (40 pts)
 crypto
 
 ## Deskripsi
