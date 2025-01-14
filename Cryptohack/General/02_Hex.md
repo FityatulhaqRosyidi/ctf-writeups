@@ -1,4 +1,4 @@
-# Hex
+# Hex (5 pts)
 Crypto
 
 ## Deskripsi 
