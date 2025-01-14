@@ -1,4 +1,4 @@
-# Greatest Common Divisor
+# Greatest Common Divisor (15 pts)
 crypto
 
 ## Deskripsi
