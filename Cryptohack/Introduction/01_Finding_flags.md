@@ -1,5 +1,5 @@
 # Finding flags (2 pts)
-cryptos
+crypto
 
 ## Deskripsi
 > Each challenge is designed to help introduce you to a new piece of cryptography. Solving a challenge will require you to find a "flag".
