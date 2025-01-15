@@ -26,12 +26,6 @@ for i in ct:
 print(pt)
 ```
 
-Hasil:
-
-```console
-# python solve.py
-crypto{A***}
-```
 
 
 
