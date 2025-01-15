@@ -30,7 +30,7 @@ Hasil:
 
 ```console
 # python solve.py
-crypto{ASCII_pr1nt4bl3}
+crypto{A***}
 ```
 
 
