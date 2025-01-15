@@ -1,4 +1,4 @@
-# Finding flags (2 pts)
+# Finding Flags (2 pts)
 crypto
 
 ## Deskripsi
