@@ -22,10 +22,4 @@ ct = "63727970746f7b596f755f77696c6c5f62655f776f726b696e675f776974685f6865785f73
 print(bytes.fromhex(ct))
 ```
 
-Hasil :
-
-``` console
-# python solve.py
-b'crypto{You_will_be_working_with_hex_strings_a_lot}'
-```
 
