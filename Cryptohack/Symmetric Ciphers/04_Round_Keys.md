@@ -7,7 +7,7 @@ crypto
 > chall : [add_round_key.py](https://cryptohack.org/static/challenges/add_round_key_b67b9a529ae739156107a74b14adde98.py)
 
 ## Solusi
-Kita diminta membuat fungsi ```add_round_key``` yang digunakan untuk men-xor setiap byte blok key dengan blok state
+Kita diminta untuk menyempurnakan fungsi ```add_round_key``` yang digunakan untuk men-xor setiap byte blok key dengan blok state
 ``` python
 from pwn import xor
 
