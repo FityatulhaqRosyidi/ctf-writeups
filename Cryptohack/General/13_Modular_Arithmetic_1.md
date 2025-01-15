@@ -15,7 +15,7 @@ Diberikan dua persamaan
 $$ 11 \equiv x \bmod 6 $$
 $$ 8146798528947 \equiv y \bmod 17 $$
 
-diminta mencari nilai terkecil dari x dan y
+kita diminta mencari nilai terkecil dari x dan y
 ``` python
 print(min(11 % 6, 8146798528947 % 17))
 ```
