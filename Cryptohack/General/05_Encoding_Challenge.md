@@ -48,10 +48,5 @@ while 'flag' not in (encoded := loads(io.recvline().decode())):
 print(encoded['flag'])
 ```
 
-hasil :
-``` console
-# python solve.py
-crypto{3nc0d3_d3c0d3_3nc0d3}
-```
 
 
