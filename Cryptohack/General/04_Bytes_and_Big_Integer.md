@@ -19,9 +19,4 @@ ct = 115151950638623188999316854888137473957755162872896826364999652827146372592
 pt = long_to_bytes(ct)
 print(pt)
 ```
-hasil :
-``` console
-# python solve.py
-b'crypto{3nc0d1n6_4ll_7h3_w4y_d0wn}'
-```
 
