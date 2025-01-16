@@ -24,10 +24,6 @@ leak = Image.frombytes(flag.mode, flag.size, leak_bytes)
 
 leak.save('leak.png')
 ```
-pada gambar leak.png, didapat flag 
-``` console
-crypto{XORly_not!}
-```
 
 
 
