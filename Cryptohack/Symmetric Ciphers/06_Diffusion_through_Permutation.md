@@ -1,4 +1,4 @@
-# Diffusion through Permutation
+# Diffusion through Permutation (30 pts)
 crypto
 
 ## Deskripsi
@@ -8,3 +8,15 @@ take the state, run ```inv_mix_columns``` on it, then ```inv_shift_rows```, conv
 > [chall.py](https://cryptohack.org/static/challenges/diffusion_ee6215282094b4ae8cd1b20697477712.py)
 
 ## Solusi
+Kita diminta untuk menyempurnakan fungsi ```inv_shift_rows```. kemudian menggunakan fungsi tersebut bersama dengan ```inv_mix_columns``` untuk memperoleh flag.
+
+``` python
+def inv_shift_rows(s):
+    s[1][1], s[2][1], s[3][1], s[0][1] = s[0][1], s[1][1], s[2][1], s[3][1]
+    s[2][2], s[3][2], s[0][2], s[1][2] = s[0][2], s[1][2], s[2][2], s[3][2]
+    s[3][3], s[0][3], s[1][3], s[2][3] = s[0][3], s[1][3], s[2][3], s[3][3]
+
+inv_mix_columns(state)
+inv_shift_rows(state)
+print(matrix2bytes(state))
+```
