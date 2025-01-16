@@ -18,7 +18,7 @@ modulus:  1031090659023346202261011620087939635042560279391170200918767990396908
 ```
 disini kita punya dua eksponen yang berbeda, namun m dan n sama. persoalan ini dapat dipecahkan dengan konsep rsa multi exponen. 
 
-kita punya dua persamaan
+dapat dibentuk dua persamaan
 
 $$ ct_1 = m^{e_1} \bmod n $$
 $$ ct_2 = m^{e_2} \bmod n $$
