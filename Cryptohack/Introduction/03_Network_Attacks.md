@@ -26,7 +26,3 @@ payload = {'buy' : 'flag'}
 io.sendline(dumps(payload).encode())
 print(loads(io.recvline().decode()))
 ```
-hasil :
-``` console
-{'flag': 'crypto{sh0pp1ng_f0r_fl4g5}'}
-```
