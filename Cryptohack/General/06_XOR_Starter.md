@@ -14,8 +14,3 @@ pt = xor('label', 13).decode()
 pt = ''.join(['crypto{', pt, '}'])
 print(pt)
 ```
-hasil :
-``` console
-# python solve.py
-crypto{aloha}
-```
