@@ -20,8 +20,3 @@ for i in range(200):
     if (ct[:6] == b'crypto'):
         print(ct)
 ```
-hasil :
-``` console
-# python solve.py
-b'crypto{0x10_15_my_f4v0ur173_by7e}'
-```
