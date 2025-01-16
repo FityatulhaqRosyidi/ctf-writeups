@@ -22,11 +22,6 @@ FLAG = xor(bytes.fromhex('04ee9855208a2cd59091d04767ae47963170d1660df7f56f5faf')
 print(FLAG)
 ```
 
-hasil :
-``` console
-# python solve.py
-b'crypto{x0r_i5_ass0c1at1v3}'
-```
 
 
 
