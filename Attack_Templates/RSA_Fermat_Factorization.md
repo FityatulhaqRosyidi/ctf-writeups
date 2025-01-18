@@ -19,6 +19,8 @@ def fermat(n):
         else:
             return "No Luck"
 
+# n = 
+
 p, q = fermat(n)
 ```
 
