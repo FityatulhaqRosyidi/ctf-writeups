@@ -14,7 +14,7 @@ Diberikan nilai n, e, dan ct. karena nilai e sangat kecil yaitu ```3```, dan n s
 $$ ct = m^3 $$
 $$ m = \sqrt[3]{ct} $$
 
-dengan sage, diperoleh akar pangkat 3 dari ct adalah ```624239975241694158443315202759206900318542905782320965248893```
+dengan sagemath, diperoleh akar pangkat 3 dari ct adalah ```624239975241694158443315202759206900318542905782320965248893```
 ``` python
 from Crypto.Util.number import long_to_bytes
 
