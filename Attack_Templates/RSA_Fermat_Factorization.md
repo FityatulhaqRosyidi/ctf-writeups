@@ -1,4 +1,5 @@
-faktorisasi $N$ jika selisih $p$ dan $q$ kecil
+Faktorisasi Fermat
+adalah teknik faktorisasi $N$ yang dapat digunakan jika selisih $p$ dan $q$ kecil
 
 ``` python
 from sympy.ntheory.primetest import is_square
