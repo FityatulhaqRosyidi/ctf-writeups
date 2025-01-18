@@ -1,4 +1,4 @@
-Euclid Algorithm 
+Euclidean Algorithm 
 ```python
 def egcd(a, b):
     if a == 0:
@@ -13,7 +13,7 @@ def egcd(a, b):
 gcd, x, y = egcd(a, b)
 ```
 
-<br>Extended Euclid Algorithm 
+<br>Extended Euclidean Algorithm 
 
 ``` python
 def gcd(a, b):
