@@ -6,7 +6,7 @@ crypto
 
 ## Solusi
 Diberikan n, e, dan ct. Kita diminta untuk mendekripsi ct. 
-perhatikan bahwa p dan q yang dihasilkan adalah bilanhgan prima berbentuk $2^k-1$. 
+perhatikan bahwa p dan q yang dihasilkan adalah bilangan prima berbentuk $2^k-1$. 
 bilangan-bilangan ini disebut dengan [Mersenne Prime](https://en.wikipedia.org/wiki/Mersenne_prime).
 
 ukuran n adalah 4484 bit. jadi, faktor-faktornya pasti berukuran dibawah 4484.
