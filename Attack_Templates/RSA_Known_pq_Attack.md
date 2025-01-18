@@ -5,7 +5,7 @@ from Crypto.Util.number import long_to_bytes,inverse
 
 # p = 
 # q = 
-# e = 
+# e = 0x10001
 # ct =
 
 n = p*q
