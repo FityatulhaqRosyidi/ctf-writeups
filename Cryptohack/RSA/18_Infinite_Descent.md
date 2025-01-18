@@ -11,7 +11,7 @@ crypto
 ## Solusi
 diberikan n, e, dan c. kita diminta untuk mendekripsi c.
 perhatikan pada fungsi getPrimes, selisih $p$ dan $q$ yang dihasilkan tidaklah jauh.
-oleh karena itu, gunakan teknik faktorisasi [fermat](https://facthacks.cr.yp.to/fermat.html) untuk mendapat $p$ dan $q$.
+oleh karena itu, kita bisa menggunakan teknik faktorisasi [fermat](https://facthacks.cr.yp.to/fermat.html) untuk mendapat $p$ dan $q$.
 (Sebenarnya pake factordb juga kebetulan bisa sih)
 
 ``` python
