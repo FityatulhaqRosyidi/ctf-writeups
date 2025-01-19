@@ -1,5 +1,5 @@
 menampilkan semua bilangan prima dibawah $N$
-kl
+4
 ``` python 
 def sieveOfSundaram(n):
     primes = []
