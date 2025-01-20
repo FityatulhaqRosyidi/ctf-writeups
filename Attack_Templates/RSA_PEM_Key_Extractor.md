@@ -1,4 +1,4 @@
-Mengekstrak $n$ dan $e$ dari `public_key.pem`    
+Mengekstrak $n$ dan $e$ dari `public_key.pem`     
 ``` python
 from Crypto.PublicKey import RSA
 
