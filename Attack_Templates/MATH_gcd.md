@@ -1,4 +1,4 @@
-Euclidean Algorithm  
+Euclidean Algorithm   
 ```python
 def egcd(a, b):
     if a == 0:
