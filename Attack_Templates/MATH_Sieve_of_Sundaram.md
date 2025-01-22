@@ -1,4 +1,4 @@
-menampilkan semua bilangan prima dibawah $N$  
+menampilkan semua bilangan prima dibawah $N$   
 
 ``` python 
 def sieveOfSundaram(n):
