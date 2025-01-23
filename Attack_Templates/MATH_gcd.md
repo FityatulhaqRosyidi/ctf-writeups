@@ -1,4 +1,15 @@
 Euclidean Algorithm      
+``` python
+def gcd(a, b):
+    return gcd(b%a, a) if a else b
+
+# a = 
+# b =
+
+x = gcd(a, b)
+```
+
+<br>Extended Euclidean Algorithm 
 ```python
 def egcd(a, b):
     if a == 0:
@@ -13,14 +24,6 @@ def egcd(a, b):
 gcd, x, y = egcd(a, b)
 ```
 
-<br>Extended Euclidean Algorithm 
 
-``` python
-def gcd(a, b):
-    return gcd(b%a, a) if a else b
 
-# a = 
-# b =
 
-x = gcd(a, b)
-```
