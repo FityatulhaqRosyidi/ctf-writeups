@@ -1,4 +1,4 @@
-Euclidean Algorithm  
+Euclidean Algorithm 
 ``` python
 def gcd(a, b):
     return gcd(b%a, a) if a else b
