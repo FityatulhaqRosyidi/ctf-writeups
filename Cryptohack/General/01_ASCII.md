@@ -1,6 +1,6 @@
 # ASCII (5 pts)
 Crypto 
-
+  
 ## Deskripsi
 > ASCII is a 7-bit encoding standard which allows the representation of text using the integers 0-127.
 > Using the below integer array, convert the numbers to their corresponding ASCII characters to obtain a flag.
